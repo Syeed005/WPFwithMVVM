@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <RPId>1</RPId>
+    <RP>RCA</RP>
+    <Description>Recausticizing</Description>
+    <Code>FA</Code>
+  </Product>
+  <Product>
+    <RPId>2</RPId>
+    <RP>LKI</RP>
+    <Description>Lime Kiln</Description>
+    <Code>FC</Code>
+  </Product>
+  <Product>
+    <RPId>3</RPId>
+    <RP>COC</RP>
+    <Description>Cont. Cooking, BSW, Diffusers</Description>
+    <Code>FH</Code>
+  </Product>
+  <Product>
+    <RPId>4</RPId>
+    <RP>WOB</RP>
+    <Description>Washing, Oxyg. Delign., Bleaching</Description>
+    <Code>FJ</Code>
+  </Product>
+  <Product>
+    <RPId>5</RPId>
+    <RP>MEC</RP>
+    <Description>Mechanical Pulping</Description>
+    <Code>FP</Code>
+  </Product>
+  <Product>
+    <RPId>6</RPId>
+    <RP>WTN</RP>
+    <Description>Wet End</Description>
+    <Code>WA</Code>
+  </Product>
+  <Product>
+    <RPId>7</RPId>
+    <RP>WHL</RP>
+    <Description>Woodhandling</Description>
+    <Code>WK</Code>
+  </Product>
+  <Product>
+    <RPId>8</RPId>
+    <RP>RBO</RP>
+    <Description>Recovery Boilers and Rebuilds</Description>
+    <Code>RA</Code>
+  </Product>
+  <Product>
+    <RPId>9</RPId>
+    <RP>EVA</RP>
+    <Description>Evaporation</Description>
+    <Code>RE</Code>
+  </Product>
+  <Product>
+    <RPId>10</RPId>
+    <RP>NCG</RP>
+    <Description>PMP Mill wide NCG solutions</Description>
+    <Code>RJ</Code>
+  </Product>
+  <Product>
+    <RPId>11</RPId>
+    <RP>LGB</RP>
+    <Description>PMP Lignoboost</Description>
+    <Code>RK</Code>
+  </Product>
+  <Product>
+    <RPId>12</RPId>
+    <RP>ASL</RP>
+    <Description>PMP Ash Leaching</Description>
+    <Code>RM</Code>
+  </Product>
+  <Product>
+    <RPId>13</RPId>
+    <RP>CRY</RP>
+    <Description>PMP Crystallization</Description>
+    <Code>RN</Code>
+  </Product>
+  <Product>
+    <RPId>14</RPId>
+    <RP>BFB</RP>
+    <Description>BFB Boilers</Description>
+    <Code>EA</Code>
+  </Product>
+  <Product>
+    <RPId>15</RPId>
+    <RP>CFB</RP>
+    <Description>CFB Boilers</Description>
+    <Code>EB</Code>
+  </Product>
+  <Product>
+    <RPId>16</RPId>
+    <RP>GAH </RP>
+    <Description>Gasifiers</Description>
+    <Code>EC</Code>
+  </Product>
+  <Product>
+    <RPId>17</RPId>
+    <RP>AEC</RP>
+    <Description>Air Emission Control</Description>
+    <Code>EJ</Code>
+  </Product>
+  <Product>
+    <RPId>18</RPId>
+    <RP>MAS</RP>
+    <Description>Marine Scrubbers </Description>
+    <Code>EK</Code>
+  </Product>
+  <Product>
+    <RPId>19</RPId>
+    <RP>BUR</RP>
+    <Description>Burners</Description>
+    <Code>EM</Code>
+  </Product>
+  <Product>
+    <RPId>20</RPId>
+    <RP>BPO</RP>
+    <Description>Biopower plants</Description>
+    <Code>ES</Code>
+  </Product>
+  <Product>
+    <RPId>21</RPId>
+    <RP>PML</RP>
+    <Description>Paper Machine Lines</Description>
+    <Code>PA</Code>
+  </Product>
+  <Product>
+    <RPId>22</RPId>
+    <RP></RP>
+    <Description>Board Machine</Description>
+    <Code>PD</Code>
+  </Product>
+  <Product>
+    <RPId>23</RPId>
+    <RP></RP>
+    <Description>OCC Line</Description>
+    <Code>PO</Code>
+  </Product>
+  <Product>
+    <RPId>24</RPId>
+    <RP>TML</RP>
+    <Description>Tissue Machine Lines</Description>
+    <Code>TA</Code>
+  </Product>
+  <Product>
+    <RPId>25</RPId>
+    <RP>BAT</RP>
+    <Description>Batch Cooking</Description>
+    <Code>FG</Code>
+  </Product>
+</ArrayOfProduct>

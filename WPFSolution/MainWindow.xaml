@@ -1,0 +1,26 @@
+﻿<Window x:Class="ValitE3DProjectCreator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ValitE3DProjectCreator"
+        mc:Ignorable="d"
+        Title="E3D Project Creation Tool" Height="450" Width="800">
+    <Border Padding="10">
+            <StackPanel>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <ComboBox Margin="0 0 5 5" x:Name="cmb_equipment" Grid.Column="0"/>
+                    <Button x:Name="btn_createProduct" Margin="5 0 5 5" Content="Add" Grid.Column="1"/>
+                    <Button x:Name="btn_creareProject" Click="btn_creareProject_Click" Content="Apply" Grid.Column="2" Margin="0 0 0 5" IsEnabled="True"/>
+                </Grid>
+                <StackPanel x:Name="stk_product" />
+            
+
+        </StackPanel>
+        </Border> 
+</Window>

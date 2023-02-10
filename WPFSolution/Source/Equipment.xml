@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfComProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ComProduct>
+    <Id>1</Id>
+    <Name>Batch Cooking</Name>
+    <ProductId>25</ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>2</Id>
+    <Name>Bio Chemical Plant</Name>
+    <ProductId></ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>3</Id>
+    <Name>Biopower</Name>
+    <ProductId>19;17;20</ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>4</Id>
+    <Name>BM OCC</Name>
+    <ProductId>22;23</ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>5</Id>
+    <Name>Board Machine</Name>
+    <ProductId>22</ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>6</Id>
+    <Name>Continuous Cooking</Name>
+    <ProductId>3</ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>7</Id>
+    <Name>CPU</Name>
+    <ProductId>4;3;25</ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>8</Id>
+    <Name>Cymic CFB Boiler</Name>
+    <ProductId>19;17;15</ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>9</Id>
+    <Name>Evap</Name>
+    <ProductId>17;9</ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>10</Id>
+    <Name>Gasifier</Name>
+    <ProductId>16</ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>11</Id>
+    <Name>Hybex</Name>
+    <ProductId>19;17;14</ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>12</Id>
+    <Name>Lignoboost</Name>
+    <ProductId>11</ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>13</Id>
+    <Name>Mechanical Fiberline</Name>
+    <ProductId></ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>14</Id>
+    <Name>NCG Or DNCG</Name>
+    <ProductId>10;19</ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>15</Id>
+    <Name>Paper Machine</Name>
+    <ProductId>21</ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>16</Id>
+    <Name>PDU</Name>
+    <ProductId></ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>17</Id>
+    <Name>Recox</Name>
+    <ProductId>17</ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>18</Id>
+    <Name>Scrubber</Name>
+    <ProductId></ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>19</Id>
+    <Name>Sulphuric Acid Plant</Name>
+    <ProductId></ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>20</Id>
+    <Name>Tissue Machine</Name>
+    <ProductId>24</ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>21</Id>
+    <Name>WLP</Name>
+    <ProductId>2;1</ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>22</Id>
+    <Name>WOB</Name>
+    <ProductId>4</ProductId>
+  </ComProduct>
+  <ComProduct>
+    <Id>23</Id>
+    <Name>Woodhandling</Name>
+    <ProductId>7</ProductId>
+  </ComProduct>
+</ArrayOfComProduct>
